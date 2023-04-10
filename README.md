@@ -1,1 +1,1 @@
-# SPMSM-control-using-LQR
+# SPMSM-control
